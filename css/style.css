@@ -1,0 +1,93 @@
+.logo{
+	width:100px;
+	vertical-align: middle;
+	display: inline-block;
+
+}
+.witeli{
+	color: red;
+}
+.nav{
+	display: inline-block;
+	
+}
+.nav-li{
+	display: inline-block;
+	margin-left: 15px;
+}
+.image{
+
+	margin-top: 30px;
+	margin-bottom: 30px;
+	display: inline-block;
+	vertical-align: top;
+	}
+	.date{
+		font-size: 22px;
+
+	}
+.blue-box{
+	
+	background-color: #3D58A6;
+    display: inline-block;
+	font-size:35px;
+	padding: 15px;
+	margin-top: 30px;
+	
+    }
+    .date{
+    	color: blue;
+    
+     
+    }
+body{
+    	padding: 30px 0 0 30px;
+    }
+.satauri{
+	font-size: 20px;
+	margin-top: 30px;
+	}
+.article-p{
+
+	margin-left: 35px;
+	margin-bottom: 30px;
+	margin-top: 40px;
+	display: inline-block;
+	width: 960px;
+}
+.contacts{
+	margin-top: 120px;
+ 	margin-left: 100px;
+ 	display: inline-block;
+
+ }
+.map{
+	display: inline-block;
+	width: 1000px;
+	height: 600px;
+	margin-top:50px;
+	margin-left: 50px;
+}
+.logo14{
+	display: inline-block;
+	
+
+}
+
+.logo13{
+	display: inline-block;
+
+}
+.img{
+	height: 30px;
+	display: inline-block;
+	margin-top: 50px;
+	}
+
+.divider{
+     display: inline-block;
+     height: 30px;
+     width: 2px;
+     background-color: blue;
+     margin:0 30px;
+ }
